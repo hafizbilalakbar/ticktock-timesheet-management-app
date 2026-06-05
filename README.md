@@ -11,7 +11,7 @@ A responsive timesheet management web application built with React, Vite, and Ta
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone <https://github.com/hafizbilalakbar/ticktock-timesheet-management-app.git>
 cd ticktock
 
 # Install dependencies
