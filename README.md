@@ -27,7 +27,7 @@ npm run build
 npm run preview
 ```
 
-Visit [http://localhost:5173](http://localhost:5173) in your browser.
+Visit [https://ticktock-timesheet-management-app-eight.vercel.app/login](https://ticktock-timesheet-management-app-eight.vercel.app/login) in your browser.
 
 ## Frameworks and Libraries
 
